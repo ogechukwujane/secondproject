@@ -75,9 +75,9 @@ const style = StyleSheet.create({
  },
 
  btn1: {
-  borderColor: "purple",
+  borderColor: "rebeccapurple",
   borderWidth: 1,
-  backgroundColor: "purple",
+  backgroundColor: "rebeccapurple",
    padding: 15,
    borderRadius: 70,
    marginHorizontal: 25,
@@ -85,8 +85,8 @@ const style = StyleSheet.create({
  },
 
  btn2: {
-   //backgroundColor: "purple",
-   borderColor: "purple",
+   
+   borderColor: "rebeccapurple",
    borderWidth: 1,
    padding: 15,
    borderRadius: 70,
@@ -100,7 +100,7 @@ const style = StyleSheet.create({
   fontSize: 15
  },
  btn: {
-   borderColor: "purple",
+   borderColor: "rebeccapurple",
    borderWidth: 1,
    borderRadius: 300,
    width: 10,
